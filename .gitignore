@@ -1,0 +1,16 @@
+# Archivos del sistema y de editores
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# Credenciales y archivos confidenciales
+*.cnf
+*.key
+*.pem
+*.env
+
+# Datos temporales de Prometheus y Grafana
+/data/
+*.tar.gz
